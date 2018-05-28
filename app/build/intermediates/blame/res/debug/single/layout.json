@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/goutham/StudioProjects/AndroidAlert1/app/build/intermediates/res/merged/debug/layout/activity_settings.xml",
+        "source": "/home/goutham/StudioProjects/AndroidAlert1/app/src/main/res/layout/activity_settings.xml"
+    },
+    {
+        "merged": "/home/goutham/StudioProjects/AndroidAlert1/app/build/intermediates/res/merged/debug/layout/activity_pin.xml",
+        "source": "/home/goutham/StudioProjects/AndroidAlert1/app/src/main/res/layout/activity_pin.xml"
+    },
+    {
+        "merged": "/home/goutham/StudioProjects/AndroidAlert1/app/build/intermediates/res/merged/debug/layout/activity_change_pin.xml",
+        "source": "/home/goutham/StudioProjects/AndroidAlert1/app/src/main/res/layout/activity_change_pin.xml"
+    },
+    {
+        "merged": "/home/goutham/StudioProjects/AndroidAlert1/app/build/intermediates/res/merged/debug/layout/activity_enter_pin.xml",
+        "source": "/home/goutham/StudioProjects/AndroidAlert1/app/src/main/res/layout/activity_enter_pin.xml"
+    },
+    {
+        "merged": "/home/goutham/StudioProjects/AndroidAlert1/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/goutham/StudioProjects/AndroidAlert1/app/src/main/res/layout/activity_main.xml"
+    }
+]

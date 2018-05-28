@@ -1,0 +1,182 @@
+[
+    {
+        "outputFile": "/home/goutham/StudioProjects/AndroidAlert1/app/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 49,
+                    "endOffset": 100
+                },
+                "from": {
+                    "file": "/home/goutham/StudioProjects/AndroidAlert1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 49,
+                        "endOffset": 104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 52,
+                    "endOffset": 153
+                },
+                "from": {
+                    "file": "/home/goutham/StudioProjects/AndroidAlert1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 110,
+                        "endColumn": 52,
+                        "endOffset": 158
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 158,
+                    "endColumn": 50,
+                    "endOffset": 204
+                },
+                "from": {
+                    "file": "/home/goutham/StudioProjects/AndroidAlert1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 164,
+                        "endColumn": 50,
+                        "endOffset": 210
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 209,
+                    "endColumn": 71,
+                    "endOffset": 276
+                },
+                "from": {
+                    "file": "/home/goutham/StudioProjects/AndroidAlert1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 346,
+                        "endColumn": 71,
+                        "endOffset": 413
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 281,
+                    "endColumn": 69,
+                    "endOffset": 346
+                },
+                "from": {
+                    "file": "/home/goutham/StudioProjects/AndroidAlert1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 419,
+                        "endColumn": 69,
+                        "endOffset": 484
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 351,
+                    "endColumn": 58,
+                    "endOffset": 405
+                },
+                "from": {
+                    "file": "/home/goutham/StudioProjects/AndroidAlert1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 216,
+                        "endColumn": 58,
+                        "endOffset": 270
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 410,
+                    "endColumn": 68,
+                    "endOffset": 474
+                },
+                "from": {
+                    "file": "/home/goutham/StudioProjects/AndroidAlert1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 276,
+                        "endColumn": 68,
+                        "endOffset": 340
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 479,
+                    "endLine": 15,
+                    "endColumn": 12,
+                    "endOffset": 765
+                },
+                "from": {
+                    "file": "/home/goutham/StudioProjects/AndroidAlert1/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 770,
+                    "endLine": 18,
+                    "endColumn": 12,
+                    "endOffset": 925
+                },
+                "from": {
+                    "file": "/home/goutham/StudioProjects/AndroidAlert1/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    }
+]

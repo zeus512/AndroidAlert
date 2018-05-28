@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/goutham/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/home/goutham/StudioProjects/AndroidAlert1/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.0.0_d60587d21f3125404e39acb7799fa7d3a4dc37ba/classes.dex" />
+    </item>
+    <item
+        jar="/home/goutham/StudioProjects/AndroidAlert1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3996209062d73f3affe01c26a16c44cf92e55f24">
+        <dex dex="/home/goutham/StudioProjects/AndroidAlert1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_82fb8a49f73e1bd59d498cf05257f9f2e78e38c0/classes.dex" />
+    </item>
+    <item
+        jar="/home/goutham/StudioProjects/AndroidAlert1/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/home/goutham/StudioProjects/AndroidAlert1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.0.0_2b5032615fe7563e0d7ebe2a3996ab3589b14948/classes.dex" />
+    </item>
+    <item
+        jar="/home/goutham/StudioProjects/AndroidAlert1/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/home/goutham/StudioProjects/AndroidAlert1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_f5ba3920cc517305ffd96a89542e39fa49780cca/classes.dex" />
+    </item>
+    <item
+        jar="/home/goutham/StudioProjects/AndroidAlert1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c341a22bedab115512395cf8ccbcd429add64b07">
+        <dex dex="/home/goutham/StudioProjects/AndroidAlert1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_366cee9099872c01f4e87b0faea907f8a48f569a/classes.dex" />
+    </item>
+
+</items>
